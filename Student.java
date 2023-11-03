@@ -5,7 +5,7 @@ public class Student {
     }
 
     public void sayHello(){
-        System.err.println("My name is Farzeen");
+        System.out.println("My name is Farzeen");
     }
 
 }
